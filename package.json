@@ -52,12 +52,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcrine-geek/BookAppFrontend.git"
+    "url": "git+https://github.com/gaetanneo/BookAppFrontend.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marcrine-geek/BookAppFrontend/issues"
+    "url": "https://github.com/gaetanneo/BookAppFrontend/issues"
   },
-  "homepage": "https://github.com/marcrine-geek/BookAppFrontend#readme"
+  "homepage": "https://github.com/gaetanneo/BookAppFrontend#readme"
 }
